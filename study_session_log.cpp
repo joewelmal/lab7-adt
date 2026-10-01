@@ -12,7 +12,7 @@ using namespace std;
 /*
  * StudySessionLog ADT
  *
- * Data:
+ * Data::
  * A sequence of study session durations in minutes.
  *
  * Operations:
